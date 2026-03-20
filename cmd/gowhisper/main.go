@@ -57,6 +57,7 @@ type CLI struct {
 	ModelCommands
 	TranscribeCommands
 	TranslateCommands
+	StreamCommands
 	ServerCommands
 }
 

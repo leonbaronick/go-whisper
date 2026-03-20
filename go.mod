@@ -9,6 +9,7 @@ require (
 	github.com/coder/websocket v1.8.14
 	github.com/djthorpe/go-errors v1.0.3
 	github.com/go-audio/wav v1.1.0
+	github.com/gordonklaus/portaudio v0.0.0-20260203164431-765aa7dfa631
 	github.com/mutablelogic/go-client v1.3.5
 	github.com/mutablelogic/go-media v1.8.3
 	github.com/mutablelogic/go-server v1.5.18
